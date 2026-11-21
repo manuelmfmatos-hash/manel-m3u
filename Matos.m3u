@@ -15,3 +15,7 @@ http://31.43.191.125:8080/live/restream/restream/99486.ts
 http://dimitri1602.online:8080/live/JorgeC/Costa/102410.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB04_-pQ8kzEfAByPXP6VUhUsappAqanTw3WdmUV3Jlg&s=10" group-title="DESPORTO-PT",SPORT TV 4 LOW
 http://31.43.191.125:8080/live/restream/restream/99487.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb2AzTaQI8o_Yvs8WZaswX5kt3RmUw9hzCnHHpNKlHw&s=10" group-title="DESPORTO-PT",SPORT TV 5 FHD
+http://dimitri1602.online:8080/live/JorgeC/Costa/191.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb2AzTaQI8o_Yvs8WZaswX5kt3RmUw9hzCnHHpNKlHw&s=10" group-title="DESPORTO-PT",SPORT TV 5 LOW
+http://31.43.191.125:8080/live/restream/restream/99488.ts
