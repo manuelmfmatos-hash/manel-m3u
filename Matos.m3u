@@ -11,3 +11,7 @@ http://31.43.191.125:8080/live/restream/restream/99485.ts
 http://dimitri1602.online:8080/live/JorgeC/Costa/184.ts   
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv3-2023-logo-png_seeklogo-504104.png" group-title="DESPORTO-PT",SPORT TV 3 LOW
 http://31.43.191.125:8080/live/restream/restream/99486.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB04_-pQ8kzEfAByPXP6VUhUsappAqanTw3WdmUV3Jlg&s=10" group-title="DESPORTO-PT",SPORT TV 4 FHD
+http://dimitri1602.online:8080/live/JorgeC/Costa/102410.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB04_-pQ8kzEfAByPXP6VUhUsappAqanTw3WdmUV3Jlg&s=10" group-title="DESPORTO-PT",SPORT TV 4 LOW
+http://31.43.191.125:8080/live/restream/restream/99487.ts
