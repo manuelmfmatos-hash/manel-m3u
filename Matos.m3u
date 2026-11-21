@@ -3,4 +3,7 @@
 http://dimitri1602.online:8080/live/JorgeC/Costa/172.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3b0dAXGFIOAeS7MODLezNl0nCcZkAYwPQowTr8zmFWQ&s=10" group-title="DESPORTO-PT",SPORT TV 1 LOW
 http://31.43.191.125:8080/live/restream/restream/99484.ts
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXCuY-2A191bo9Tqf1OaGQchTAX-dW-5VuoeUY_ZAvw&s=10" group-title="DESPORTO-PT",SPORT TV 2 FHD
+http://dimitri1602.online:8080/live/JorgeC/Costa/179.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXCuY-2A191bo9Tqf1OaGQchTAX-dW-5VuoeUY_ZAvw&s=10" group-title="DESPORTO-PT",SPORT TV 2 LOW
+http://31.43.191.125:8080/live/restream/restream/99485.ts
