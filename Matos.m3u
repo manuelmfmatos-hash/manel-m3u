@@ -33,3 +33,21 @@ http://dimitri1602.online:8080/live/JorgeC/Costa/221.ts
 http://31.43.191.125:8080/live/restream/restream/99492.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJYkPBAaxwTBKnJeA_cOj5x4vz4Tt_Olwu88R8DHpGPw&s=10" group-title="DESPORTO-PT",DAZN 1 FHD
 http://dimitri1602.online:8080/live/JorgeC/Costa/195.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJYkPBAaxwTBKnJeA_cOj5x4vz4Tt_Olwu88R8DHpGPw&s=10" group-title="DESPORTO-PT",DAZN 1 LOW
+http://31.43.191.125:8080/live/restream/restream/99475.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1rrcbx1784996764.png" group-title="DESPORTO-PT",DAZN 2 FHD
+http://dimitri1602.online:8080/live/JorgeC/Costa/201.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1rrcbx1784996764.png" group-title="DESPORTO-PT",DAZN 2 LOW
+http://31.43.191.125:8080/live/restream/restream/99476.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="DESPORTO-PT",DAZN 3 FHD
+http://dimitri1602.online:8080/live/JorgeC/Costa/207.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4z35dr1784996780.png" group-title="DESPORTO-PT",DAZN 3 LOW
+http://31.43.191.125:8080/live/restream/restream/99477.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="DESPORTO-PT",DAZN 4 FHD
+http://dimitri1602.online:8080/live/JorgeC/Costa/211.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x2cnyr1784996789.png" group-title="DESPORTO-PT",DAZN 4 LOW
+http://31.43.191.125:8080/live/restream/restream/99478.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="DESPORTO-PT",DAZN 5 FHD
+http://dimitri1602.online:8080/live/JorgeC/Costa/214.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ffw8yk1773512280.png" group-title="DESPORTO-PT",DAZN 5 LOW
+http://31.43.191.125:8080/live/restream/restream/99479.ts
