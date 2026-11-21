@@ -23,9 +23,9 @@ http://31.43.191.125:8080/live/restream/restream/99488.ts
 http://dimitri1602.online:8080/live/JorgeC/Costa/34312.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHetlBeUs5etDVnYBoosx6ohCOYZu69R8j9Jy-dLL7w&s=10" group-title="DESPORTO-PT",SPORT TV 6 LOW
 http://31.43.191.125:8080/live/restream/restream/99489.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbnrv1rztHS-vPK4-gYDcjWhSsCJSm_WnG6pbQJ4pUuVwPRAN-XwWmQ&s" group-title="DESPORTO-PT",SPORT TV 7 FHD
+#EXTINF:-1 tvg-logo="https://ecoonline.s3.amazonaws.com/uploads/2024/08/whatsapp-image-2024-08-02-at-10-45-21-1.jpeg" group-title="DESPORTO-PT",SPORT TV 7 FHD
 http://dimitri1602.online:8080/live/JorgeC/Costa/90491.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbnrv1rztHS-vPK4-gYDcjWhSsCJSm_WnG6pbQJ4pUuVwPRAN-XwWmQ&s" group-title="DESPORTO-PT",SPORT TV 7 LOW
+#EXTINF:-1 tvg-logo="https://ecoonline.s3.amazonaws.com/uploads/2024/08/whatsapp-image-2024-08-02-at-10-45-21-1.jpeg" group-title="DESPORTO-PT",SPORT TV 7 LOW
 http://31.43.191.125:8080/live/restream/restream/129327.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8uO9ciGmy7MZj9ZdmOgx43xE950KjvYjnYZTGqauLlw&s=10" group-title="DESPORTO-PT",BTV FHD
 http://dimitri1602.online:8080/live/JorgeC/Costa/221.ts
